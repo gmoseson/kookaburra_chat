@@ -1,0 +1,57 @@
+.clickable:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#background-color-button {
+	margin-top: 10px;
+	background-color: black;
+	outline-color: white;
+}
+
+.button-white {
+	background-color: white;
+	outline-color: black;
+}
+
+.black-background {
+	background-color: black;
+	color: white;
+}
+
+h1 {
+	color: blue;
+}
+
+h2 {
+	color: red;
+}
+
+h3 {
+	color: green;
+}
+
+p {
+	font-style: bold;
+}
+
+.important{
+	background-color: yellow;
+}
+
+#KookaburraTimeline {
+	display: none;
+}
+
+img {
+	width: 500px;
+	height: 350px;
+}
+
+.form-group {
+	display: none;
+}
+
+#discussion li {
+	list-style-type: none;
+}
